@@ -13,7 +13,6 @@ print("𝗖𝗼𝗱𝗲𝗱 𝗯𝘆 𝐃𝟏𝐀𝐑𝐊-𝐕𝐀𝟒𝐔𝟑")
 print("From Bangladesh")
 print("Contact me: d1ark.va4u3@gmail.com")
 print("Contact me: https://www.facebook.com/dark.vau.its.official")
-print("Contact me: https://twitter.com/AriyanNijhum?s=09")
 
 print("\033[0;31m")
 print(''' 𝗪𝗵𝗮𝘁 𝗱𝗼 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁❓❓❓  ''')
